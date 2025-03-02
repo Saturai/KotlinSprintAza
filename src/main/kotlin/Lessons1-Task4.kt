@@ -1,0 +1,17 @@
+fun main(){
+
+    val lenght: Long = 40868600000
+    val age: Byte = 27
+    val partOfDay: Double = 0.075
+    val second: Short = 6480
+    val partOfYear: String = "2.0547945205479453E-4"
+    val apogee: Int = 327000
+
+    println("Расстояние- ${lenght}")
+    println("Возраст– ${age}")
+    println("Часть дня– ${partOfDay}")
+    println("Секунды– ${second}")
+    println("Часть года– ${partOfYear}")
+    println("Апогей орбиты- ${apogee}")
+
+}
