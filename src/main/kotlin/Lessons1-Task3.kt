@@ -12,7 +12,7 @@ fun main() {
   hour = "10"
   minute = "55"
 
-  println("посадка:  ${hour}:${minute}")
+  println("посадка: ${hour}:${minute}")
 
 
 }
