@@ -6,14 +6,14 @@ fun main() {
 
     val thanksMessage: String = "Спасибо за ваш заказ. Рады новому сотрудничеству!"
 
-    println("Количество заказов: ${numbersOfOders}")
-    println(thanksMessage)
+    println ("Количество заказов: ${numbersOfOders}")
+    println (thanksMessage)
 
     var numberOfEmployees: Int = 2000
-    //println(numberOfEmployees)
+    //println (numberOfEmployees)
 
     numberOfEmployees = 1999
-    println("Сотрудников в компании: ${numberOfEmployees}")
+    println ("Сотрудников в компании: ${numberOfEmployees}")
 
 
 }
