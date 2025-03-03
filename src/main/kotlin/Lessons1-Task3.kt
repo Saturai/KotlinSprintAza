@@ -7,7 +7,7 @@ fun main() {
   var minute: String = "07"
 
   println("Первый полёт человека в космос состоялся в ${year} году.")
-  println("вылет:  ${hour}:${minute}")
+  println("вылет: ${hour}:${minute}")
 
   hour = "10"
   minute = "55"
