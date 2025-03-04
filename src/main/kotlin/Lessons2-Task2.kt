@@ -12,5 +12,4 @@ fun main() {
 
    val totalBudget = budgetForPermanentInterns + budgetForPermanentInterns
    val averageSalary = totalBudget / totalEmployees
-
 }
